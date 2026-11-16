@@ -76,7 +76,7 @@ graph TD
 
 ## 🚀 How to Run This Project (Google Colab)
 
-1. Open the `Milestone1.ipynb` notebook in Google Colab.
+1. Open the `Milestone1.ipynb` notebook in Google Colab or use streamlit run app/main.py.
 2. Install dependencies (`google-generativeai`, `pdfplumber`, `pytesseract`, `streamlit`).
 3. Enter your **Google Gemini API Key**.
 4. Run the upload cell to select a sample PDF resume.
