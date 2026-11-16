@@ -1,0 +1,11 @@
+# Python & Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Database
+candidate_database.db
+
+# Environment & IDE
+.env
+.vscode/
